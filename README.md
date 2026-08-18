@@ -1,26 +1,52 @@
-# Hello World Project
+# MechED AI
 
-hello
+### AI-Powered Engineering Education Ecosystem
 
-This project was built with [Lovable](https://lovable.dev).
+MechED AI is an AI-powered engineering education platform
+designed to help engineering students learn, practice,
+conduct research, and develop professional skills.
 
-**Live app**: https://meched-ai-study.lovable.app
+## 🏆 President Tech Award 2026
 
-## Build with Lovable
+Category: Artificial Intelligence — Education
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/bb6a4ee9-3486-46bd-90ed-e2cddca7c469).
+## 🚀 Core Features
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+- AI Mentor
+- Personalized Learning
+- Smart Recommendations
+- Gamification
+- Engineering Problem Solving
+- Research Hub
+- Expert Network
+- Progress Analytics
 
-## Development
+## 🛠️ Technology
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+- React
+- TypeScript
+- Vite
+- Supabase
+- PostgreSQL
+- Gemini AI
+- Tailwind CSS
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+## 🔐 Security
+
+- Supabase Authentication
+- JWT
+- Row Level Security
+- Secure Edge Functions
+
+## 📸 Screenshots
+
+See the screenshots folder.
+
+## 📚 Documentation
+
+- System Architecture
+- AI Pipeline
+- Recommendation Engine
+- Gamification
+- Security
+- Project Structure
